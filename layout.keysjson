@@ -14,18 +14,16 @@
         { "mod":"8", "key":"126", "adj" : {"Exposure2012":"1"} },
         { "mod":"8", "key":"125", "adj" : {"Exposure2012":"-1"} },
         
-        { "mod":"0", "key":"1", "adj" : {"Shadows2012":"5"} },
-        { "mod":"0", "key":"0", "adj" : {"Shadows2012":"-5"} },
+        { "mod":"0", "key":"19", "adj" : {"Shadows2012":"5"} },
+        { "mod":"0", "key":"18", "adj" : {"Shadows2012":"-5"} },
         
-        { "mod":"0", "key":"4", "adj" : {"Highlights2012":"5"} },
-        { "mod":"0", "key":"5", "adj" : {"Highlights2012":"-5"} },
+        { "mod":"0", "key":"21", "adj" : {"Highlights2012":"5"} },
+        { "mod":"0", "key":"20", "adj" : {"Highlights2012":"-5"} },
         
-        { "mod":"0", "key":"13", "adj" : {"Whites2012":"5"} },
-        { "mod":"0", "key":"12", "adj" : {"Whites2012":"-5"} },
+        { "mod":"0", "key":"22", "adj" : {"Whites2012":"5"} },
+        { "mod":"0", "key":"23", "adj" : {"Whites2012":"-5"} },
         
-        { "mod":"0", "key":"11", "adj" : {"Blacks2012":"5"} },
-        { "mod":"0", "key":"9", "adj" : {"Blacks2012":"-5"} },
-        
-        { "mod":"0", "key":"18", "adj" : {"_setShortcut":"View/Go to Grid view"} }
+        { "mod":"0", "key":"28", "adj" : {"Blacks2012":"5"} },
+        { "mod":"0", "key":26", "adj" : {"Blacks2012":"-5"} },
     ]
 }
