@@ -17,13 +17,13 @@
         { "mod":"1", "key":"4", "adj" : {"Highlights2012":"5"} },
         { "mod":"1", "key":"5", "adj" : {"Highlights2012":"-5"} },
         
-        { "mod":"0", "key":"21", "adj" : {"Shadows2012":"5"} },
-        { "mod":"0", "key":"20", "adj" : {"Shadows2012":"-5"} },
+        { "mod":"1", "key":"1", "adj" : {"Shadows2012":"5"} },
+        { "mod":"1", "key":"0", "adj" : {"Shadows2012":"-5"} },
         
-        { "mod":"0", "key":"22", "adj" : {"Whites2012":"5"} },
-        { "mod":"0", "key":"23", "adj" : {"Whites2012":"-5"} },
+        { "mod":"1", "key":"13", "adj" : {"Whites2012":"5"} },
+        { "mod":"1", "key":"12", "adj" : {"Whites2012":"-5"} },
         
-        { "mod":"0", "key":"28", "adj" : {"Blacks2012":"5"} },
-        { "mod":"0", "key":"26", "adj" : {"Blacks2012":"-5"} }
+        { "mod":"1", "key":"11", "adj" : {"Blacks2012":"5"} },
+        { "mod":"1", "key":"9", "adj" : {"Blacks2012":"-5"} }
     ]
 }
