@@ -1,4 +1,5 @@
 # VSCO Keys Keyboard Layout
+My keyboard layout for [VSCO Keys] (https://github.com/vsco/keys).
 
 ### Exposure 
 
