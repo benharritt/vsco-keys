@@ -7,4 +7,4 @@
 * option + ↑ = **+0.5** 
 * option + ↓ = **-0.5**
 * command + ↑ = **+1**
-* command + ↓ + **-1**
+* command + ↓ = **-1**
