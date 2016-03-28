@@ -26,6 +26,6 @@
         { "mod":"0", "key":"11", "adj" : {"Blacks2012":"5"} },
         { "mod":"0", "key":"9", "adj" : {"Blacks2012":"-5"} },
         
-        { "mod":"0", "key":"18", "adj" : {"Lightroom Shortvuts":"View/Go to Grid view"} }
+        { "mod":"0", "key":"18", "adj" : {"Lightroom Shortcuts":"View/Go to Grid view"} }
     ]
 }
