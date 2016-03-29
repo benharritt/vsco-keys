@@ -27,6 +27,9 @@
         { "mod":"1", "key":"9", "adj" : {"Blacks2012":"-5"} },
         
         { "mod":"1", "key":"17", "adj" : {"Temperature":"100"} },
-        { "mod":"1", "key":"15", "adj" : {"Temperature":"-100"} }
+        { "mod":"1", "key":"15", "adj" : {"Temperature":"-100"} },
+        
+        { "mod":"1", "key":"17", "adj" : {"IncrementalTemperature":"1"} },
+        { "mod":"1", "key":"15", "adj" : {"IncrementalTemperature":"-1"} }
     ]
 }
