@@ -24,6 +24,9 @@
         { "mod":"1", "key":"12", "adj" : {"Whites2012":"-5"} },
         
         { "mod":"1", "key":"11", "adj" : {"Blacks2012":"5"} },
-        { "mod":"1", "key":"9", "adj" : {"Blacks2012":"-5"} }
+        { "mod":"1", "key":"9", "adj" : {"Blacks2012":"-5"} },
+        
+        { "mod":"1", "key":"17", "adj" : {"Temperature":"100"} },
+        { "mod":"1", "key":"15", "adj" : {"Temperature":"-100"} }
     ]
 }
